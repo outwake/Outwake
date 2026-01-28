@@ -20,15 +20,15 @@ Imersa no universo que é a programação.
 
 <br />
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <a>Estou atualmente estudando Javascript para depois me aprofundar mais em Typescript 🤩</a></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <a> Estou atualmente estudando Javascript para depois me aprofundar mais em Typescript 🤩</a></code>
 
- <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><a>Já estudei um pouco mais a fundo, sei criar uns sites simples 😎</a></code>
+ <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><a> Já estudei um pouco mais a fundo, sei criar uns sites simples 😎</a></code>
 
- <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><a>Sei estilizar e fazer umas coisas bem maneiras 😄</a></code>
+ <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><a> Sei estilizar e fazer umas coisas bem maneiras 😄</a></code>
 
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><a>Estou com o conhecimento básico nessa área ainda explorando os horizontes 😝</a></code>   
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><a> Estou com o conhecimento básico nessa área ainda explorando os horizontes 😝</a></code>   
 
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><a>Ainda não aprendi, mas vem ai 👌</a></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><a> Ainda não aprendi, mas vem ai 👌</a></code>
 
 
 
