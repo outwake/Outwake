@@ -43,16 +43,11 @@ Imersa no universo que é a programação.
 
 
 
-| <a href="https://github.com/outwake/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=outwake&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Lary, a Pioral github stats" /></a> | <a href="https://github.com/outwake/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outwake&layout=compact&theme=onedark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=outwake&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lary, a Pioral github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outwake&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<br/>
 
-<br/>
-
-<br/>
-
-<br/><br />
+<br />
 
 <a href="https://x.com/mrsherlokia">
   <img align="right" alt="Lary, a pioral | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
