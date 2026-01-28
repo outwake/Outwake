@@ -57,6 +57,6 @@ Imersa no universo que é a programação.
 <a href="https://x.com/mrsherlokia">
   <img align="right" alt="Lary, a pioral | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/larissa-ferreira-mendonça-49655a185">
+<a href="https://linkedin.com/in/larissa-ferreira-mendonça-49655a185">
   <img align="right" alt="Larissa Mendonça | CodeSandbox" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
