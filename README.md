@@ -4,7 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Larissa%20Mendonça&desc=Desenvolvedora%20Full%20Stack%20|%20Analista%20de%20Sistema%20&descSize=18&descAlignY=75&animation=fadeIn/" />
 </p>
 
-<br />
+<h1 align="center"> 👩‍💻H3LL0 W0RLD!</h1><br />
+
+
 
 **About me**
 
@@ -30,7 +32,7 @@
 
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><a> Estou com o conhecimento básico nessa área ainda explorando os horizontes 😝</a></code>   
 
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><a> Ainda não aprendi, mas vem ai 👌</a></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><a> Estou em modo apredizagem 👌</a></code>
 
 
 
