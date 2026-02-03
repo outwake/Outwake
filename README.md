@@ -1,6 +1,6 @@
 <br />
 
-Imersa no universo que é a programação.
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Larissa%20Mendonça/></p>
 
 <br />
 
@@ -41,10 +41,6 @@ Imersa no universo que é a programação.
 <br /><br />
 
 
-
-
-| <a href="https://github.com/outwake/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=outwake&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Lary, a Pioral github stats" /></a> | <a href="https://github.com/outwake/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outwake&layout=compact&theme=onedark&hide_border=true" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <br/>
 
