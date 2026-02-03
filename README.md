@@ -1,6 +1,8 @@
 <br />
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Larissa%20Mendonça/></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Larissa%20Mendonça&desc=Desenvolvedora%20Full%20Stack%20|%20Analista%20de%20Sistema%20&descSize=18&descAlignY=75&animation=fadeIn/" />
+</p>
 
 <br />
 
@@ -40,7 +42,10 @@
 
 <br /><br />
 
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=outwake&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=outwake&layout=compact&theme=radical"/>
+</div>
 
 <br/>
 
