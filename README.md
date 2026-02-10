@@ -34,13 +34,11 @@
 
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><a> Estou em modo apredizagem 👌</a></code>
 
+  
 
-
-
-
-​                         
-
- <img src="assets/Nozomi1.gif" alt="Gif" style="display: block; margin: auto;">
+ <div align="center">
+  <img src="assets/Nozomi1.gif" alt="Gif">
+</div>
 
 <br />
 
