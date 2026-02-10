@@ -36,9 +36,11 @@
 
 
 
-​             <code><img align="middle" alt="Gif" src="assets/Nozomi1.gif">              
 
-</code>
+
+​                         
+
+ <img src="assets/Nozomi1.gif" alt="Gif" style="display: block; margin: auto;">
 
 <br />
 
