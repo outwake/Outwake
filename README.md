@@ -36,9 +36,9 @@
 
 
 
+​             <code><img align="middle" alt="Gif" src="assets/Nozomi1.gif">              
 
-
-<code><img align="middle" alt="Gif" src="assets/Nozomi1.gif"></code>
+</code>
 
 <br />
 
