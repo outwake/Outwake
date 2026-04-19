@@ -29,7 +29,7 @@ Atualmente tô finalizando meu bootcamp pela **Generation Brasil**, criando proj
 <br />
 ---
 
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
 * 🎓 Formada em Análise e Desenvolvimento de Sistemas
 * 💻 Focada em desenvolvimento FullStack
@@ -39,7 +39,8 @@ Atualmente tô finalizando meu bootcamp pela **Generation Brasil**, criando proj
 <br />
 <br />
 <br />
-## 🛠️ Stack atual
+
+# 🛠️ Stack atual
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
@@ -54,7 +55,7 @@ Atualmente tô finalizando meu bootcamp pela **Generation Brasil**, criando proj
 <br />
 <br />
 <br />
----
+
 
 ## 💎 Projetos que eu mais curto
 
