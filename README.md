@@ -24,7 +24,9 @@ E aí 👋
 Sou a Lary, desenvolvedora FullStack em construção, transformando café ☕ em código e ideias em soluções reais.
 
 Atualmente tô finalizando meu bootcamp pela **Generation Brasil**, criando projetos com foco em resolver problemas reais e evoluindo cada vez mais na prática.
-
+<br />
+<br />
+<br />
 ---
 
 ## 🧠 Sobre mim
@@ -34,7 +36,8 @@ Atualmente tô finalizando meu bootcamp pela **Generation Brasil**, criando proj
 * 🚀 Evoluindo no código todos os dias
 * 🎯 Construindo soluções com propósito
 <br />
-
+<br />
+<br />
 <br />
 ## 🛠️ Stack atual
 
@@ -48,7 +51,9 @@ Atualmente tô finalizando meu bootcamp pela **Generation Brasil**, criando proj
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </div>
-
+<br />
+<br />
+<br />
 ---
 
 ## 💎 Projetos que eu mais curto
@@ -63,8 +68,9 @@ Aplicação voltada para o universo fitness.
 Projeto com foco em soluções na área da saúde.
 
 *(em breve com deploy e mais detalhes 👀)*
-
----
+<br />
+<br />
+<br />
 ---
 
 ## 🎮 Fora do código
@@ -74,6 +80,8 @@ Projeto com foco em soluções na área da saúde.
 * 💭 Ideias de projeto surgindo do nada
 
 ---
+<br />
+<br />
  <div align="center">
   <img src="assets/Nozomi1.gif" alt="Gif">
 </div>
