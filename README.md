@@ -8,33 +8,52 @@
 
 
 
-**About me**
+const lary = {
+  nome: "Larissa Mendonça",
+  nickname: "Lary, a Pioral",
+  username: "Outwake",
+  foco: "FullStack Developer",
+  status: "Finalizando bootcamp na Generation 🚀"
+}
 
-- 📖 Estou no bootcamp de JavaScript na [Generation Brasil](https://brazil.generation.org/)
+E aí 👋
+Sou a Lary, desenvolvedora FullStack em construção, transformando café ☕ em código e ideias em soluções reais.
 
-- 📈 Estou procurando melhorar mais o meu nível de programação
-
-- ❤️ Amo jogar World of Warcraft 
-
-- 💬 Se quiser vir me perguntar algo ou bater um papo, [pode vir](https://discordapp.com/users/259497168090562565)
-
+Atualmente tô finalizando meu bootcamp pela Generation Brasil, criando projetos com foco em resolver problemas reais e evoluindo cada vez mais na prática.
 
 
 <br />
 
 <br />
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <a> Estou atualmente estudando Javascript para depois me aprofundar mais em Typescript 🤩</a></code>
+<code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
- <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><a> Já estudei um pouco mais a fundo, sei criar uns sites simples 😎</a></code>
+ <code><img height="50" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
- <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><a> Sei estilizar e fazer umas coisas bem maneiras 😄</a></code>
+ <code><img height="50" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><a> Estou com o conhecimento básico nessa área ainda explorando os horizontes 😝</a></code>   
+<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><a> Estou em modo apredizagem 👌</a></code>
+<code><img height="50" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-  
+##💎 Projetos que eu mais curto
+
+-🔥 Climax.
+-Projeto com foco em experiência e construção mais refinada.
+
+-💪 7Fit
+-Aplicação voltada para o universo fitness.
+
+-🩺 7Health
+-Projeto com foco em soluções na área da saúde.
+
+-(em breve com deploy e mais detalhes 👀)
+
+
+##🎮 Fora do código
+-🧙‍♀️ Explorando Azeroth em World of Warcraft
+-🎧 Música + código = modo foco ativado
+-💭 Ideias de projeto surgindo do nada
 
  <div align="center">
   <img src="assets/Nozomi1.gif" alt="Gif">
