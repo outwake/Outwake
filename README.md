@@ -8,6 +8,9 @@
 
 
 
+# 👾 Lary, a Pioral (Outwake)
+
+```js
 const lary = {
   nome: "Larissa Mendonça",
   nickname: "Lary, a Pioral",
@@ -15,46 +18,62 @@ const lary = {
   foco: "FullStack Developer",
   status: "Finalizando bootcamp na Generation 🚀"
 }
+```
 
 E aí 👋
 Sou a Lary, desenvolvedora FullStack em construção, transformando café ☕ em código e ideias em soluções reais.
 
-Atualmente tô finalizando meu bootcamp pela Generation Brasil, criando projetos com foco em resolver problemas reais e evoluindo cada vez mais na prática.
+Atualmente tô finalizando meu bootcamp pela **Generation Brasil**, criando projetos com foco em resolver problemas reais e evoluindo cada vez mais na prática.
 
+---
 
+## 🧠 Sobre mim
+
+* 🎓 Formada em Análise e Desenvolvimento de Sistemas
+* 💻 Focada em desenvolvimento FullStack
+* 🚀 Evoluindo no código todos os dias
+* 🎯 Construindo soluções com propósito
 <br />
 
 <br />
+## 🛠️ Stack atual
 
-<code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</div>
 
- <code><img height="50" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+---
 
- <code><img height="50" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+## 💎 Projetos que eu mais curto
 
-<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+🔥 **Climax.**
+Projeto com foco em experiência e construção mais refinada.
 
-<code><img height="50" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+💪 **7Fit**
+Aplicação voltada para o universo fitness.
 
-##💎 Projetos que eu mais curto
+🩺 **7Health**
+Projeto com foco em soluções na área da saúde.
 
--🔥 Climax.
--Projeto com foco em experiência e construção mais refinada.
+*(em breve com deploy e mais detalhes 👀)*
 
--💪 7Fit
--Aplicação voltada para o universo fitness.
+---
+---
 
--🩺 7Health
--Projeto com foco em soluções na área da saúde.
+## 🎮 Fora do código
 
--(em breve com deploy e mais detalhes 👀)
+* 🧙‍♀️ Explorando Azeroth em **World of Warcraft**
+* 🎧 Música + código = modo foco ativado
+* 💭 Ideias de projeto surgindo do nada
 
-
-##🎮 Fora do código
--🧙‍♀️ Explorando Azeroth em World of Warcraft
--🎧 Música + código = modo foco ativado
--💭 Ideias de projeto surgindo do nada
-
+---
  <div align="center">
   <img src="assets/Nozomi1.gif" alt="Gif">
 </div>
